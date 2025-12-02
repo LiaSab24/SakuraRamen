@@ -1,0 +1,35 @@
+.container-ourmenu {
+  background-image: url("../../../public//assets/img/3_section_our_menu/JPG/section_our_menu_bg.jpg");
+  background-size: cover;
+  padding: 120px;
+}
+.container-ourmenu h2 {
+  margin: 0 0 64px 0;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 56px;
+}
+
+.dishes {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.dishes img {
+  width: 352px;
+  height: 352px;
+}
+
+.table-font {
+  font-size: 32px;
+  color: #675E54;
+  font-weight: 600;
+}
+
+tr td:first-child {
+  padding-right: 128px;
+}/*# sourceMappingURL=our-menu.css.map */

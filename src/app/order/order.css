@@ -1,0 +1,38 @@
+.container-order {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 120px;
+}
+
+.order {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.order h2 {
+  margin: 120px 0 64px 0;
+}
+
+.cards {
+  font-family: "Economica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 250px;
+}
+.cards img {
+  width: 128px;
+}
+.cards .cards-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cards .cards-flex h3 {
+  text-align: center;
+}/*# sourceMappingURL=order.css.map */
