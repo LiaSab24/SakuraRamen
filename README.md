@@ -4,10 +4,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
-To start a local development server, run:
+To start a local development server, run and open:
 
 ```bash
-ng serve
+ng serve --open
 ```
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
@@ -18,6 +18,12 @@ Angular CLI includes powerful code scaffolding tools. To generate a new componen
 
 ```bash
 ng generate component component-name
+```
+
+or/oder
+
+```bash
+ng g c component-name
 ```
 
 For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
