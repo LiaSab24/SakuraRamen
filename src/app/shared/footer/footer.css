@@ -26,13 +26,13 @@ footer {
   height: 40px;
 }
 
-.imprint {
+.footer-imprint {
   height: 44px;
 }
-.imprint a {
+.footer-imprint a {
   text-decoration: none;
   color: #fff;
 }
-.imprint:hover {
+.footer-imprint:hover {
   color: #c97171;
 }/*# sourceMappingURL=footer.css.map */
