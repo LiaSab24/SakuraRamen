@@ -24,4 +24,15 @@ footer {
 .social img {
   width: 40px;
   height: 40px;
+}
+
+.imprint {
+  height: 44px;
+}
+.imprint a {
+  text-decoration: none;
+  color: #fff;
+}
+.imprint:hover {
+  color: #c97171;
 }/*# sourceMappingURL=footer.css.map */

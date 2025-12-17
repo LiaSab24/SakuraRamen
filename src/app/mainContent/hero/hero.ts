@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   templateUrl: './hero.html',
   styleUrl: './hero.sass',
 })
-export class Hero {
 
+export class Hero {
+  title = 'Welcome to Sakura Ramen';
 }

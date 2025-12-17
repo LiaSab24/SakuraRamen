@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-order',
   imports: [],
-  templateUrl: './order.html',
+  templateUrl: './order.html', 
   styleUrl: './order.sass',
 })
 export class Order {
